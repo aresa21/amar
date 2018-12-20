@@ -1,0 +1,6 @@
+perintah git
+git add . (untuk menambah data keseluruhan git.)
+git commit "pesan" -m 
+git push origin master (untuk mengirim data)
+git pull origin master (untuk menarik data yang di kirim)
+git status (mengecek status yang sudah dikirim)
